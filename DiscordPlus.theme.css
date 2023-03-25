@@ -80,7 +80,7 @@ Set avatar/server radius to 50% to make them circular.
 /* Size of user and server icons */
 --dplus-icon-avatar-chat: 48px;
 --dplus-icon-avatar-list: 32px;
---dplus-icon-avatar-profile: 80px;
+--dplus-icon-avatar-profile: 48px;
 
 --dplus-icon-server-sidebar: 48px;
 --dplus-icon-server-list: 32px;
